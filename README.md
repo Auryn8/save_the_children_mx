@@ -1,12 +1,12 @@
 # SAVE THE CHILDREN MÉXICO
 ## LANDING PAGE
 
-Karla Miranda - PO 
-Maria Cravioto - UX Research
-Ana Tamayo - UX Research
-Angélica Rivera - UX Research
-Deni Morales  - UI/AI
-Marisol Juárez - UI
+* Karla Miranda - PO 
+* Maria Cravioto - UX Research
+* Ana Tamayo - UX Research
+* Angélica Rivera - UX Research
+* Deni Morales  - UI/AI
+* Marisol Juárez - UI
 
 
 ## Objetivo General
@@ -35,13 +35,13 @@ Transformar el tráfico que llega del Paid Search en conversiones y donaciones e
 
 ## Investigación
 
-[Business Model Canvas](./images/business_model_canvas_stc.png)
+[Business Model Canvas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/business_model_canvas_stc.png)
 
-[Customer Journey](./images/customer_journey_stc.png)
+[Customer Journey](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/customer_journey_stc.png)
 
-[Análisis DOFA](./images/dofa_analisis_stc.png)
+[Análisis DOFA](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/dofa_analisis_stc.png)
 
-[Análisis de Pareto](./images/pareto_analisis_stc.png)
+[Análisis de Pareto](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/pareto_analisis_stc.png)
 
     
 ## Insights
@@ -50,11 +50,11 @@ Transformar el tráfico que llega del Paid Search en conversiones y donaciones e
 * Al 42.2% de los usuarios les pareció poco claro el mensaje 
 * El 60% de los usuarios no donaría 
 
-[Preguntas del cuestionario](./images/preguntas_stc.png)
+[Preguntas del cuestionario](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/preguntas_stc.png)
 
-[Análisis de las respuestas](./images/insights_equipo_stc.png)
+[Análisis de las respuestas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/insights_equipo_stc.png)
 
-[Percepciones Cualitativas](./images/percepciones_cualitativas_stc.png)
+[Percepciones Cualitativas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/percepciones_cualitativas_stc.png)
 
 
 ## Objetivos del Usuario
@@ -65,12 +65,12 @@ Transformar el tráfico que llega del Paid Search en conversiones y donaciones e
 * Información concisa y clara.
 * Imágenes que motiven a reforzar la sensación de altruismo y no de culpa o que exploten el chantaje y el morbo.
 
-[Borrador landing page](./images/primer_borrador_stc.png)
+[Borrador landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/primer_borrador_stc.jpg)
 
 
 ## Propuesta de landing page
 
-[Wireframe STC landing page](./images/wireframe_prop_stc.png)
+[Wireframe STC landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/wireframe_prop_stc.png)
 
 * Diseño limpio 
 
@@ -96,13 +96,15 @@ b) El usuario se retira del proceso de donación: recibe automáticamente un cor
 
 El cliente nos solicita que el formulario pida el teléfono en primera instacia pues afirma que más del 90% de los donativos de la página web terminan realizandose vía telefónica. Aunque no hubo una pregunta específica en el cuetionario, durante las entrevistas moderadas fue recurrente una reacción negativa al llegar a este punto. Las y los usuarios preguntaban con molestia por qué lo pedían o directamente decían que es una información que no deseaban ofrecer, por ello colocamos la casilla de teléfono en la segunda parte del cuestionario.
 
+*Nos encontramos con la dificultad de que la herramienta que elegimos para montar la landing page (instapage) no nos permitió realizar la idea como la teníamos planeada, de modo que dejamos ambas partes del formulario visibles y la interacción de desplegar la dejamos como segundo alcance.*
+
 
 * Imágenes con un enfoque positivo donde se muestre el trabajo de Save The Children
 
 Uno de los insights más importantes fue que la gente no conectaba con las imágenes presentadas en la página original.
 Ofrecimos imágenes de niñas y niños felices y en actividades relacionadas con los programas principales de Save the Children.
 
-[Prototipo Landing page](../assets/video/STC.mp4)
+[Prototipo Landing page](https://www.youtube.com/watch?v=dlk9e9zmMqs&feature=youtu.be)
 
 
 
