@@ -13,7 +13,7 @@
 
 Transformar el tráfico que llega del Paid Search en conversiones y donaciones en la Landing page.
 
-[Landing page original]()
+[Landing page original](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/screencapture-apoyo-savethechildren-mx-defensores-de-la-ninez-t2-2018-03-14-15_59_59%20(1).png)
 
 ## Propuesta de valor
 
@@ -106,8 +106,9 @@ El cliente nos solicita que el formulario pida el teléfono en primera instacia 
 Uno de los insights más importantes fue que la gente no conectaba con las imágenes presentadas en la página original.
 Ofrecimos imágenes de niñas y niños felices y en actividades relacionadas con los programas principales de Save the Children.
 
-[Prototipo Landing page](https://www.youtube.com/watch?v=dlk9e9zmMqs&feature=youtu.be)
+[Captura de pantalla de prototipo Landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/screencapture-savethechildren-landing-pagedemo-co-2018-03-23-13_56_59.png)
 
+[Video de prototipo funcionando](https://www.youtube.com/watch?v=dlk9e9zmMqs&feature=youtu.be)
 
 
 
