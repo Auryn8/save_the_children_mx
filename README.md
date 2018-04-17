@@ -15,7 +15,7 @@
 
 Transformar el tráfico que llega del Paid Search en conversiones y donaciones en la Landing page.
 
-[Landing page original](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/screencapture-apoyo-savethechildren-mx-defensores-de-la-ninez-t2-2018-03-14-15_59_59%20(1).png)
+![Landing page original](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/screencapture-apoyo-savethechildren-mx-defensores-de-la-ninez-t2-2018-03-14-15_59_59%20(1).png)
 
 ## Propuesta de valor
 
@@ -39,13 +39,13 @@ Transformar el tráfico que llega del Paid Search en conversiones y donaciones e
 
 ## Investigación
 
-[Business Model Canvas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/business_model_canvas_stc.png)
+![Business Model Canvas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/business_model_canvas_stc.png)
 
-[Customer Journey](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/customer_journey_stc.png)
+![Customer Journey](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/customer_journey_stc.png)
 
-[Análisis DOFA](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/dofa_analisis_stc.png)
+![Análisis DOFA](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/dofa_analisis_stc.png)
 
-[Análisis de Pareto](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/pareto_analisis_stc.png)
+![Análisis de Pareto](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/pareto_analisis_stc.png)
 
     
 ## Insights
@@ -54,11 +54,11 @@ Transformar el tráfico que llega del Paid Search en conversiones y donaciones e
 * Al 42.2% de los usuarios les pareció poco claro el mensaje 
 * El 60% de los usuarios no donaría 
 
-[Preguntas del cuestionario](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/preguntas_stc.png)
+![Preguntas del cuestionario](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/preguntas_stc.png)
 
-[Análisis de las respuestas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/insights_equipo_stc.png)
+![Análisis de las respuestas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/insights_equipo_stc.png)
 
-[Percepciones Cualitativas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/percepciones_cualitativas_stc.png)
+![Percepciones Cualitativas](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/percepciones_cualitativas_stc.png)
 
 
 ## Objetivos del Usuario
@@ -69,12 +69,12 @@ Transformar el tráfico que llega del Paid Search en conversiones y donaciones e
 * Información concisa y clara.
 * Imágenes que motiven a reforzar la sensación de altruismo y no de culpa o que exploten el chantaje y el morbo.
 
-[Borrador landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/primer_borrador_stc.jpg)
+![Borrador landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/primer_borrador_stc.jpg)
 
 
 ## Propuesta de landing page
 
-[Wireframe STC landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/wireframe_prop_stc.png)
+![Wireframe STC landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/wireframe_prop_stc.png)
 
 * Diseño limpio 
 
@@ -108,7 +108,7 @@ El cliente nos solicita que el formulario pida el teléfono en primera instacia 
 Uno de los insights más importantes fue que la gente no conectaba con las imágenes presentadas en la página original.
 Ofrecimos imágenes de niñas y niños felices y en actividades relacionadas con los programas principales de Save the Children.
 
-[Captura de pantalla de prototipo Landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/screencapture-savethechildren-landing-pagedemo-co-2018-03-23-13_56_59.png)
+![Captura de pantalla de prototipo Landing page](https://github.com/Auryn8/save_the_children_mx/blob/master/assets/images/screencapture-savethechildren-landing-pagedemo-co-2018-03-23-13_56_59.png)
 
 [Video de prototipo funcionando](https://www.youtube.com/watch?v=dlk9e9zmMqs&feature=youtu.be)
 
