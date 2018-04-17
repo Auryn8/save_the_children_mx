@@ -92,7 +92,7 @@ La historia de la institución era otro apartado que los usuarios no leían. Se 
 
 * Formulario sencillo 
 
-Se diseñó un formulario breve, minimalista pero amigable, que inicialmente solicite dos sencillos datos: npmbre y correo electrónico; al ingresar aparece un mensaje que indica que esos datos fueron guardados y que puede continuar con el proceso de donación con dos escenarios posibles:
+Se diseñó un formulario breve, minimalista pero amigable, que inicialmente solicite dos sencillos datos: nombre y correo electrónico; al ingresar aparece un mensaje que indica que esos datos fueron guardados y que puede continuar con el proceso de donación con dos escenarios posibles:
 
 a) El usuario continúa el proceso de donación: se despliega de manera lateral el formulario de datos bancarios.
  
